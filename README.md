@@ -17,3 +17,4 @@
 - A estilização no CSS
 - Bibliotecas externas do JavaScript
 - Responsividade do site
+- Utilização de Bootstrap Icons
