@@ -37,12 +37,12 @@ i {
 
 /* Cabeçalho e Banner */
 #header {
-  min-height: 120vh;
+  min-height: 60vh;
   background-image: url("../img/banner2.jpeg");
   background-size: cover;
   background-position: center;
   color: var(--primary-text-color);
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   position: relative;
 }
 
@@ -50,7 +50,8 @@ i {
   display: flex; 
   flex-direction: column;
   justify-content: space-between;
-  align-items: center;
+  align-items: ;
+  margin-top: 1rem;
 }
 
 #brand {
@@ -60,15 +61,15 @@ i {
 }
 
 #navbar {
+  width: 90%;
   display: flex;
-  gap: 2rem;
+  gap: 10rem;
   text-transform: uppercase;
-  margin-right: "";
 }
 
 #navbar a {
   background-color: var(--main-color);
-  padding: 1rem;
+  padding: 2rem;
   color: var(--primary-text-color);
   font-weight: bold;
 }
