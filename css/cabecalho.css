@@ -1,0 +1,35 @@
+.cabecalho {
+  background-image: url("../img/banner2.jpeg");
+  background-position: center;
+  color: var(--primary-text-color);
+  min-height: 100vh;
+  position: relative;
+}
+
+.cabecalho__titulo {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.cabecalho__brand {
+  background-color: var(--main-color);
+  margin-bottom: 1rem;
+  padding: 1rem;
+  width: 50%;
+}
+
+
+.cabecalho__navegacao {
+    width: 50%;
+    gap: 2rem;
+    text-transform: uppercase;
+  }
+  
+.cabecalho__navegacao a {
+    padding: 2rem;
+    color: var(--primary-text-color);
+    font-weight: bold;
+  }
+  
