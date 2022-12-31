@@ -338,69 +338,7 @@ i {
 }
 
 /* Contato */
-#contact {
-  background-color: var(--main-color);
-  gap: 0;
-  padding-bottom: 5rem;
-}
 
-#contact-image-container {
-  margin-top: 20px;
-  width: 40%;
-  align-self: center;
-}
-
-#contact-information {
-  position: relative;
-  text-align: center;
-  padding: 3rem;
-  flex: 1 1 0;
-}
-
-#contact-information .section-subtitle {
-  color: var(--primary-text-color);
-}
-
-#contact-information i {
-  position: absolute;
-  top: 0;
-  left: 0;
-  background-color: var(--primary-text-color);
-  color: var(--main-color);
-  font-size: 2rem;
-  padding: 2rem;
-}
-
-#contact-information form {
-  display: flex;
-  flex-direction: column;
-  margin-top: 1rem;
-  gap: 3rem;
-}
-
-#contact-information .form-control {
-  display: flex;
-  gap: 1rem;
-}
-
-#contact-information input,
-#contact-information textarea {
-  flex: 0.5;
-  padding: 1rem;
-  border: none;
-}
-
-#contact-information .btn {
-  align-self: start;
-  border: 2px solid var(--primary-text-color);
-  font-size: 1.2rem;
-  transition: 0.4s;
-}
-
-#contact-information .btn:hover {
-  background-color: var(--primary-text-color);
-  color: var(--main-color);
-}
 
 /* Rodapé */
 #footer {

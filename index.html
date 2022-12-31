@@ -21,12 +21,14 @@
   <!-- Estilos -->
   <link rel="stylesheet" href="css/style.css" />
   <link rel="stylesheet" href="/css/cabecalho.css">
+  <link rel="stylesheet" href="/css/contato.css">
 
   <!-- Scripts -->
   <script src="/js/scripts.js" defer></script>
 </head>
 
 <body>
+
   <!-- Cabeçalho e Banner -->
   <header class="cabecalho">
     <div class="cabecalho__titulo">
@@ -38,6 +40,7 @@
         <a href="#team">Cursos</a>
         <a href="#contact">Contato</a>
       </nav>
+      
 
       <!-- Menu Mobile -->
       <i class="bi bi-list" id="menu"></i>
@@ -264,13 +267,14 @@
     <div id="contact-information" class="text-container">
       <i class="bi bi-envelope"></i>
       <p class="section-subtitle">Entre em contato</p>
+
       <form>
         <div class="form-control">
-          <input type="text" name="name" id="name" placeholder="Nome" />
-          <input type="email" name="email" id="email" placeholder="E-mail" />
+          <input type="text" name="name" id="name" placeholder="Nome" required />
+          <input type="email" name="email" id="email" placeholder="E-mail" required />
         </div>
-        <input type="text" name="phone" id="phone" placeholder="Telefone" />
-        <textarea name="message" id="message" placeholder="Sua mensagem..."></textarea>
+        <input type="text" name="phone" id="phone" placeholder="Telefone" required />
+        <textarea name="message" id="message" placeholder="Sua mensagem..." required ></textarea>
         <input type="submit" value="Enviar" class="btn" />
       </form>
     </div>
@@ -307,6 +311,7 @@
         <a href="#">Consulta internacional</a>
       </nav>
     </div>
+
     <div class="links-container">
       <h4>Páginas</h4>
       <nav>
