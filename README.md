@@ -1,11 +1,22 @@
-<h1 align="center"> Projeto Inicial Site </h1>
+
+
+<h1 align="center"> Projeto Site Maria Bruna Psi </h1>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 # Introdução
 
-- O projeto trata-se da criação de um site, neste primeiro momento foi desenvolvido a estrutura de códigos.
+* O projeto trata-se da criação de um site, neste primeiro momento foi desenvolvido a estrutura de códigos.
+
+<br>
+
 - No segundo momento será feito a melhoria dos textos, novas fotos, estilização e a criação da segunda página do site.
+
+<br>
+
+- Terceiro momento hospedagem do site.
+
+<br>
 
 ## Ferramentas que estou utilizando
 
