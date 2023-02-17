@@ -1,3 +1,12 @@
+:root {
+  --main-color: #8e44ad;
+  --primary-text-color: #eaf2f8;
+  --secondary-text-color: #1b2631;
+  --secondary-color: #5d6d7e;
+  --tertiary-color: #e7d5e7;
+  --secondary-bg-color: #4d0844;
+}
+
 #contact {
     background-color: var(--main-color);
     gap: 0;
