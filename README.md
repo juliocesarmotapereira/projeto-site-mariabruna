@@ -23,6 +23,7 @@
 - HTML 
 - CSS
 - JavaScript
+- Bootstrap Icons
 - Photoshop 
 
 ## Conceitos aprendidos
