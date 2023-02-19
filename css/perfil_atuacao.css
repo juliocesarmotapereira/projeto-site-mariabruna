@@ -7,7 +7,7 @@
 .text-image-section {
     display: flex;
     flex-wrap: wrap;
-    gap: 3rem;
+    gap: 2rem;
   }
   
   .text-container {
@@ -21,6 +21,7 @@
   
   .section-subtitle {
     text-transform: uppercase;
+    font-size: 1.25rem;
     font-weight: bold;
     color: var(--main-color);
   }
