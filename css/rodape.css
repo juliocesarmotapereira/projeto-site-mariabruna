@@ -2,9 +2,13 @@
 #footer {
     color: var(--primary-text-color);
     background-color: var(--secondary-bg-color);
+   
     display: flex;
+    
+    
     justify-content: space-around;
-    padding: 3rem 3rem 5rem;
+    padding: 3rem 3rem 5rem;  
+
 }
 
 #footer i {
@@ -72,7 +76,7 @@
 
 .links-container nav {
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
 }
 
 .links-container nav a {
