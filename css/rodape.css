@@ -2,13 +2,85 @@
 #footer {
     color: var(--primary-text-color);
     background-color: var(--secondary-bg-color);
-   
     display: flex;
-    
-    
     justify-content: space-around;
-    padding: 3rem 3rem 5rem;  
+    padding: 2rem 1rem 5rem;
 
+}
+
+.contact-info {
+    width: 30%;
+}
+
+.contact-info p {
+    margin-bottom: 2rem;
+}
+
+.footer-brand {
+    margin-bottom: 4rem;
+}
+
+.footer-brand h2 {
+    background-color: var(--main-color);
+    margin-bottom: 1rem;
+    padding: 1rem;
+
+}
+
+#footer i {
+    font-size: 1rem;
+    padding: 0.5rem;
+}
+
+#footer a {
+    color: var(--primary-text-color);
+}
+
+.contact-info p i {
+    background-color: transparent;
+    padding: 0;
+    color: var(--main-color);
+}
+
+.social-networks p {
+    margin-bottom: 1rem;
+
+}
+
+.networks {
+    margin-top: 2rem;
+    display: flex;
+    gap: 4rem;
+}
+
+/* Páginas */
+.links-container h4 {
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+.links-container nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.links-container nav a {
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid var(--secondary-color);
+}
+
+
+
+
+
+/* Rodapé (fazer análise para ajustes)
+#footer {
+    color: var(--primary-text-color);
+    background-color: var(--secondary-bg-color);
+    display: flex;
+    justify-content: space-between;
+    padding: 5rem 5rem;
 }
 
 #footer i {
@@ -18,32 +90,34 @@
 
 #footer a {
     color: var(--primary-text-color);
+
 }
 
 .contact-info,
 .links-container {
     width: 20%;
+    display: flex;
 }
 
 .footer-brand {
     margin-bottom: 2rem;
 }
 
-/*   
-  .footer-brand h2 {
+
+.footer-brand h2 {
     background-color: var(--main-color);
     background-image: url("/img/logotipo_brand.png");
     margin-bottom: 0.5rem;
     padding: 2rem;
-  } 
-*/
+}
+
 
 #rodape_brand {
+    width: 50%;
+    background-color: #e01111;
 
-    width: 100%;
-    margin-bottom: 2rem;
-    
 }
+
 
 .contact-info p {
     margin-bottom: 1rem;
@@ -74,9 +148,9 @@
     margin-bottom: 3rem;
 }
 
+
 .links-container nav {
     display: flex;
-    /* flex-direction: column; */
 }
 
 .links-container nav a {
@@ -96,3 +170,4 @@
 .phone-info {
     color: var(--secondary-color);
 }
+*/
