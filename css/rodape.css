@@ -44,7 +44,6 @@
 
 .social-networks p {
     margin-bottom: 1rem;
-
 }
 
 .networks {
@@ -70,104 +69,9 @@
     border-bottom: 1px solid var(--secondary-color);
 }
 
-
-
-
-
-/* Rodapé (fazer análise para ajustes)
-#footer {
-    color: var(--primary-text-color);
-    background-color: var(--secondary-bg-color);
-    display: flex;
-    justify-content: space-between;
-    padding: 5rem 5rem;
-}
-
-#footer i {
-    font-size: 1rem;
-    padding: 0.3rem;
-}
-
-#footer a {
-    color: var(--primary-text-color);
-
-}
-
-.contact-info,
-.links-container {
-    width: 20%;
-    display: flex;
-}
-
-.footer-brand {
-    margin-bottom: 2rem;
-}
-
-
-.footer-brand h2 {
+.copyright {
     background-color: var(--main-color);
-    background-image: url("/img/logotipo_brand.png");
-    margin-bottom: 0.5rem;
-    padding: 2rem;
-}
-
-
-#rodape_brand {
-    width: 50%;
-    background-color: #e01111;
-
-}
-
-
-.contact-info p {
-    margin-bottom: 1rem;
-}
-
-.contact-info p i {
-    background-color: transparent;
-    padding: 0;
-    color: var(--main-color);
-}
-
-.social-networks p {
-    margin-bottom: 1rem;
-}
-
-.networks {
-    margin-top: 2rem;
-    display: flex;
-    gap: 1rem;
-}
-
-#footer .networks i {
-    padding: 1rem;
-}
-
-.links-container h4 {
-    text-transform: uppercase;
-    margin-bottom: 3rem;
-}
-
-
-.links-container nav {
-    display: flex;
-}
-
-.links-container nav a {
+    text-align: center;
+    padding-top: 1rem;
     padding-bottom: 1rem;
-    margin-bottom: 1rem;
-    border-bottom: 1px solid var(--secondary-color);
 }
-
-.phone-number {
-    display: flex;
-    border: 1px solid var(--main-color);
-    gap: 1rem;
-    align-items: center;
-    margin-bottom: 1rem;
-}
-
-.phone-info {
-    color: var(--secondary-color);
-}
-*/
