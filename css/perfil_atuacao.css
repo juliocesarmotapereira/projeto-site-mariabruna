@@ -1,7 +1,6 @@
 /* Geral */
 /* Respeitando as cores da identidade visual */
 
-
 /* Perfil */
 /* Área de Atuação */
 .text-image-section {
@@ -44,7 +43,6 @@
 .image-container {
   flex: 1 1 300px;
   position: relative;
-
 }
 
 .image-container i {

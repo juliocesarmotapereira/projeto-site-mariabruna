@@ -5,7 +5,6 @@
     display: flex;
     justify-content: space-around;
     padding: 2rem 1rem 5rem;
-
 }
 
 .contact-info {
@@ -24,7 +23,6 @@
     background-color: var(--main-color);
     margin-bottom: 1rem;
     padding: 1rem;
-
 }
 
 #footer i {
