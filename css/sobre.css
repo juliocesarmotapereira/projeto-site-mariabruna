@@ -16,18 +16,12 @@
   flex-direction: column;
   justify-content: center;
   gap: 2rem;
-  padding: 4rem 4rem;
+  padding: 4rem 3rem;
 }
 
-#about-text .section-subtitle {
-  font-size: 1.25rem;
-  color: var(--primary-text-color);
-}
-
+#about-text .section-subtitle,
 #about-text .section-title {
-  font-size: 2rem;
   color: var(--primary-text-color);
-  margin-bottom: 3em;
 }
 
 #about-text i {
@@ -40,8 +34,8 @@
 }
 
 .about-description h4 {
-  font-size: 1.5rem;
-  margin-bottom: 2rem;
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
 }
 
 .about-description p {
