@@ -2,7 +2,7 @@
 /* Respeitando as cores da identidade visual */
 
 /* Perfil */
-/* Área de Atuação */
+/* Áreas de atuação */
 .text-image-section {
   display: flex;
   flex-wrap: wrap;
@@ -52,7 +52,8 @@
   width: 100%;
   display: flex;
   gap: 2rem;
-  padding: 2rem;
+  padding: 1rem;
+
 }
 
 .service {
