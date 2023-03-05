@@ -53,11 +53,11 @@
   display: flex;
   gap: 2rem;
   padding: 1rem;
-
 }
 
 .service {
   position: relative;
+  flex: 1;
 }
 
 .service i {
