@@ -12,7 +12,7 @@
   position: relative;
 }
 
-#inner-header{
+#inner-header {
   align-items: center;
   display: flex;
   justify-content: space-between;
@@ -21,7 +21,7 @@
 #brand {
   background-color: var(--main-color);
   padding: 1rem;
-  
+
 }
 
 #navbar {

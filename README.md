@@ -7,16 +7,8 @@
 # Introdução
 
 * O projeto trata-se da criação de um site, neste primeiro momento foi desenvolvido a estrutura de códigos.
-
-<br>
-
-- No segundo momento será feito a melhoria dos textos, novas fotos, estilização e a criação da segunda página do site.
-
-<br>
-
-- Terceiro momento hospedagem do site.
-
-<br>
+* No segundo momento será feito a melhoria dos textos, novas fotos, estilização e a criação da segunda página do site.
+* Terceiro momento hospedagem do site.
 
 ## Ferramentas que estou utilizando
 
